@@ -5,6 +5,7 @@ def key_for_min_value(name_hash)
   
   if name_hash.size < 1
     return nil
+  end
 
     holder = 99999
     key_return = ''
